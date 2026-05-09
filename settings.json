@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "6asmpokul.aternos.me:39293",
+    "ip": "6asmpokul.aternos.me",
     "port": 39293,
     "version": "",
     "try-creative": false
